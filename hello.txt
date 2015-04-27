@@ -1,8 +1,5 @@
 连猴子都懂的git命令 adsfadsf
 
-<<<<<<< HEAD
 
 version a
-=======
 煞笔过来改了一行
->>>>>>> 1feba361b3ce07a2b25a19a4da3a4e73d691ec37
